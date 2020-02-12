@@ -1,7 +1,7 @@
 # Features-of-DoHome-RF-Bulb
 Introductions of DoHome RF bulb features
 
-`[中文](https://github.com/SmartArduino/Features-of-DoHome-RF-Bulb/tree/master/cn)`
+[中文](https://github.com/SmartArduino/Features-of-DoHome-RF-Bulb/tree/master/cn)
 
 ## Features:
 
